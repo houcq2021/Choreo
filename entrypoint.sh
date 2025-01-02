@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # 定义 UUID 及 伪装路径,请自行修改.(注意:伪装路径以 / 符号开始,为避免不必要的麻烦,请不要使用特殊符号.)
-UUID=${UUID:-'de04add9-5c68-8bab-950c-08cd5320df18'}
+UUID=${UUID:-'d029a89d-f008-470e-8829-f1aca3cef0d9'}
 WSPATH=${WSPATH:-'choreo'}
 
 # 生成配置文件，并经过 base64 加密
